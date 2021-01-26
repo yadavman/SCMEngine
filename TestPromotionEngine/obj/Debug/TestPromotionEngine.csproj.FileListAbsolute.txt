@@ -1,0 +1,16 @@
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\bin\Debug\TestPromotionEngine.dll
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\bin\Debug\TestPromotionEngine.pdb
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\bin\Debug\PromotionEngine.exe
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\bin\Debug\PromotionEngine.pdb
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\bin\Debug\PromotionEngine.exe.config
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\obj\Debug\TestPromotionEngine.csprojAssemblyReference.cache
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\obj\Debug\TestPromotionEngine.csproj.CopyComplete
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\obj\Debug\TestPromotionEngine.dll
+E:\.Net Workspace\SCM\Promotion_Engine\TestPromotionEngine\obj\Debug\TestPromotionEngine.pdb
